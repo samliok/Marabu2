@@ -1,0 +1,12 @@
+"use strict";
+exports.__esModule = true;
+var fast_sha256_1 = require("fast-sha256");
+var json_canonicalize_1 = require("json-canonicalize");
+var obj = { "type": "object", "object": { "type": "block", "txids": ["740bcfb434c89abe57bb2bc80290cd5495e87ebf8cd0dadb076bc50453590104"], "nonce": "a26d92800cf58e88a5ecf37156c031a4147c2128beeaf1cca2785c93242a4c8b", "previd": "0024839ec9632d382486ba7aac7e0bda3b4bda1d4bd79be9ae78e7e1e813ddd8", "created": "1622825642", "T": "003a000000000000000000000000000000000000000000000000000000000000" } };
+var message = (0, json_canonicalize_1.canonicalize)(obj);
+var enc = new TextEncoder();
+var encoded = enc.encode(message);
+var objectid = (0, fast_sha256_1["default"])(encoded);
+var dec = new TextDecoder("utf-8");
+var decodedOBJ = dec.decode(objectid);
+console.log(decodedOBJ);

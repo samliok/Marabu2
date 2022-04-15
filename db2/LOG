@@ -1,0 +1,31 @@
+2022/04/15-05:05:00.608586 7fd9ad3fc640 Delete type=3 #1
+2022/04/15-05:05:01.145523 7fd9acbfb640 Level-0 table #5: started
+2022/04/15-05:05:01.215521 7fd9acbfb640 Level-0 table #5: 1334108 bytes OK
+2022/04/15-05:05:01.217303 7fd9acbfb640 Delete type=0 #3
+2022/04/15-05:05:01.377065 7fd9acbfb640 Level-0 table #7: started
+2022/04/15-05:05:01.453302 7fd9acbfb640 Level-0 table #7: 1312217 bytes OK
+2022/04/15-05:05:01.454866 7fd9acbfb640 Delete type=0 #4
+2022/04/15-05:05:01.611472 7fd9acbfb640 Level-0 table #9: started
+2022/04/15-05:05:01.687574 7fd9acbfb640 Level-0 table #9: 1300889 bytes OK
+2022/04/15-05:05:01.688520 7fd9acbfb640 Delete type=0 #6
+2022/04/15-05:05:01.831877 7fd9acbfb640 Level-0 table #11: started
+2022/04/15-05:05:01.922438 7fd9acbfb640 Level-0 table #11: 1317513 bytes OK
+2022/04/15-05:05:01.923465 7fd9acbfb640 Delete type=0 #8
+2022/04/15-05:05:02.136668 7fd9acbfb640 Level-0 table #13: started
+2022/04/15-05:05:02.319253 7fd9acbfb640 Level-0 table #13: 1332309 bytes OK
+2022/04/15-05:05:02.320228 7fd9acbfb640 Delete type=0 #10
+2022/04/15-05:05:02.611306 7fd9acbfb640 Level-0 table #15: started
+2022/04/15-05:05:02.715273 7fd9acbfb640 Level-0 table #15: 1347253 bytes OK
+2022/04/15-05:05:02.716658 7fd9acbfb640 Delete type=0 #12
+2022/04/15-05:05:02.717793 7fd9acbfb640 Compacting 4@0 + 1@1 files
+2022/04/15-05:05:02.791692 7fd9acbfb640 Generated table #16@0: 1 keys, 10524 bytes
+2022/04/15-05:05:02.791747 7fd9acbfb640 Compacted 4@0 + 1@1 files => 10524 bytes
+2022/04/15-05:05:02.792727 7fd9acbfb640 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/04/15-05:05:02.792861 7fd9acbfb640 Delete type=2 #11
+2022/04/15-05:05:02.793170 7fd9acbfb640 Delete type=2 #15
+2022/04/15-05:05:02.794266 7fd9acbfb640 Delete type=2 #9
+2022/04/15-05:05:02.795866 7fd9acbfb640 Delete type=2 #7
+2022/04/15-05:05:02.796804 7fd9acbfb640 Delete type=2 #13
+2022/04/15-05:05:02.854180 7fd9acbfb640 Level-0 table #18: started
+2022/04/15-05:05:02.955192 7fd9acbfb640 Level-0 table #18: 1351031 bytes OK
+2022/04/15-05:05:02.957898 7fd9acbfb640 Delete type=0 #14

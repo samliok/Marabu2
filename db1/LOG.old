@@ -1,0 +1,5 @@
+2022/04/15-05:04:03.048389 7fba3dbfc640 Recovering log #17
+2022/04/15-05:04:03.061126 7fba3dbfc640 Level-0 table #20: started
+2022/04/15-05:04:03.075370 7fba3dbfc640 Level-0 table #20: 595540 bytes OK
+2022/04/15-05:04:03.077811 7fba3dbfc640 Delete type=0 #17
+2022/04/15-05:04:03.078223 7fba3dbfc640 Delete type=3 #2
